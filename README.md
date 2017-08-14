@@ -1,6 +1,6 @@
-Easy and clean launch Dinastycoin using ForkNote, the most advanced CryptoNote software supporting enumerous networks.
+**Easy and clean launch Dinastycoin using ForkNote, the most advanced CryptoNote software supporting numerous networks.
 
-Overview
+**Overview
 
 Forknote uses configuration files to describe the properties of a Cryptonote blockchain. To get started you must download the latest version of Forknote.
 
@@ -11,7 +11,7 @@ To connect to the daemon to existing blockchain, just start forknoted with the c
 $ ./forknoted --config-file configs/imaginary_blockchain.conf
 New blockchains are created by creating new configuration files. Configuration files are created with our blockchain creation form. You can find more about the available configuration options in our documentation.
 
-Examples
+**Examples
 
 To connect the daemon to the Dinastycoin, start forknoted with its corresponding configuration file:
 
@@ -35,7 +35,7 @@ Starting simplewallet for the Dinastycoin blockchain:
 
 $ ./simplewallet --config-file configs/dinastycoin.conf
 
-CONFIG : 
+**CONFIG : 
 
 
 BYTECOIN_NETWORK=092052ff-1110-5e2f-5522-02abf5a10255
