@@ -1,4 +1,4 @@
-**Easy and clean launch Dinastycoin using ForkNote, the most advanced CryptoNote software supporting numerous networks.
+**Easy and clean launch Dinastycoin using ForkNote, the most advanced CryptoNote software supporting numerous networks.**
 
 **Overview**
 
@@ -35,7 +35,7 @@ Starting simplewallet for the Dinastycoin blockchain:
 
 $ ./simplewallet --config-file configs/dinastycoin.conf
 
-**CONFIG : 
+**CONFIG** : 
 
 
 BYTECOIN_NETWORK=092052ff-1110-5e2f-5522-02abf5a10255
